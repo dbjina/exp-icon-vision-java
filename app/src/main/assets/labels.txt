@@ -3,4 +3,4 @@ no_microwave
 no_oven
 safe_dishwasher
 safe_for_freesing
-safe_microwave9
+safe_microwave
